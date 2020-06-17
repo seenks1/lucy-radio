@@ -8,6 +8,6 @@
     "discord.js": "^12.2.0"
   },
   "scripts": {
-    "stable": "node index.js",
+    "stable": "node index.js"
   }
 }
